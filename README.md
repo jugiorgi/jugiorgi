@@ -1,16 +1,19 @@
-### Hi there 👋
+## Julia Giorgi Martin
 
-<!--
-**jugiorgi/jugiorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱: (11) 96059-2090
 
-Here are some ideas to get you started:
+📧: juliagiorgimartin@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<br>
+
+🔭: I'm currently work as a Application Development Analyst at Accenture.
+
+🎓: Graduated in computer science at Universidade Anhembi Morumbi
+
+📚: I'm currently learning Angular, Spring Boot and continue my studies using Node and ReactJs.
+
+🌎 Languages: Portuguese, English and Spanish.
+
+🎺 Hobbies: I love TV shows, books, traveling, getting to know new cultures, music and barbecue.
