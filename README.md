@@ -1,9 +1,5 @@
 ## Julia Giorgi Martin
 
-<div style="display: inline_block">
-  <img align="right" alt="ju-pic" height="150" style="border-radius:50px;" src="https://armazenamento-jugio.s3.sa-east-1.amazonaws.com/download20211004120357.png">
-</div>
-
 <br>
 
 📱: (11) 96059-2090
@@ -14,13 +10,13 @@
 
 <br>
 
-🔭: Desenvolvedora Java Sênior na Speedy.
+🔭: Senior Java Developer at Speedy.
 
-🎓: Graduada em ciência da computação pela Universidade Anhembi e cursando pós graduação em Liderança e Inovação na FGV.
+🎓: Graduated in computer science (bachelor degree) from Universidade Anhembi, graduated in Leadership and Innovation (specialization) at FGV and studying a specialization in Software Engineering at UNICAMP.
 
-🌎 Idiomas: Portugues, inglês e espanhol.
+🌎 Languages: Portuguese, English and Spanish.
 
-🎺 Hobbies: Eu amo estudar novas tecnologias, assistir filmes e séries, sair com os meus amigos, viajar, praticar atividade física e ler.
+🎺 Hobbies: I love to study new technologies, watch movies and series, hang out with my friends, travel, practice physical activity and read.
 
 <br>
 <br>
